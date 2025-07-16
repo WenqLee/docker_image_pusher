@@ -1,7 +1,7 @@
 snipe/snipe-it
 mariadb:11.4.7
 nginx
-kanshudj/n1-openwrtgateway:r9
+kanshudj/n1-openwrtgateway
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
